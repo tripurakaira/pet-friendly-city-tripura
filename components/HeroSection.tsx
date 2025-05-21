@@ -36,13 +36,13 @@ export function HeroSection() {
           </motion.p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/volunteer" className="btn-primary">
+            <Link href="/about" className="btn-primary">
               Join the Movement
             </Link>
             <Link href="/volunteer-form" className="btn-secondary">
               Volunteer Now
             </Link>
-            <Link href="/about" className="btn-outline">
+            <Link href="/impact" className="btn-outline">
               Learn More
             </Link>
           </div>
